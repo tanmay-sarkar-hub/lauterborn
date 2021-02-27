@@ -22,3 +22,8 @@ There are certain realities which are driving this shift.
 Finally Steve Jobs took it even further - 
 > Some people say, "Give the customers what they want." But that's not my approach. Our job is to figure out what they're going to want before they do. I think Henry Ford once said, "If I'd asked customers what they wanted, they would have told me, 'A faster horse!'" People don't know what they want until you show it to them. That's why I never rely on market research. Our task is to read things that are not yet on the page.
 
+**Read more**:
+- [Understanding the Consumer](https://tanmay-sarkar-hub.github.io/lauterborn/consumer/consumer)
+- [Understanding the Cost](https://tanmay-sarkar-hub.github.io/lauterborn/cost/cost)
+- [Understanding the Convenience](https://tanmay-sarkar-hub.github.io/lauterborn/convenience/convenience)
+- [Understanding the Communication](https://tanmay-sarkar-hub.github.io/lauterborn/communication/communication)
