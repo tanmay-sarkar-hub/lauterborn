@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Lauterborn
 
-You can use the [editor on GitHub](https://github.com/tanmay-sarkar-hub/lauterborn/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![](./files/20210226_231836_0000.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This blog is about 4C's of marketing as proposed by Schultz, Tannenbaum and Lauterborn in 1993 under the concepts of [Integrated Marketing Communication](https://en.wikipedia.org/wiki/Marketing_communications#Integrated_marketing_communications). You can read more about [Prof. Robert F. Lauterborn](http://www.rlauterborn.com/bio.php). Here is one interview on [YouTube](https://www.youtube.com/watch?v=FtGlAPo-CG4). This 5 minutes video has the message which we will follow throughout the blog. The 4C's of marketing is an enlightened everion of [Prof. McCarthy's](https://en.wikipedia.org/wiki/E._Jerome_McCarthy) [4P's of marketing](https://en.wikipedia.org/wiki/Marketing_mix). 4P's of marketing was proposed in 1960. 
 
-### Markdown
+Here is the thought process as we move away from 4P's to 4C's.
+> 
+- Forget **Product**, study **Consumer's** wants and needs.
+- Forget **Price**, understand the consumer's **Cost** satisfy that want or need.
+- Forget **Place**, think consumer's **Convenience** to buy.
+- Forget **Promotion**, it is actually **Communication**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+There are certain realities which are driving this shift.
+> 
+- The seller can no longer sell whatever they make.
+- The seller can only sell what someone specifically wants to buy.
+- The money the consumer pays is only one kind of cost.
+- The customer needs not to go from store to store to buy what she needs.
+- The customers know more than the sellers.
 
-```markdown
-Syntax highlighted code block
+Finally Steve Jobs took it even further - 
+> Some people say, "Give the customers what they want." But that's not my approach. Our job is to figure out what they're going to want before they do. I think Henry Ford once said, "If I'd asked customers what they wanted, they would have told me, 'A faster horse!'" People don't know what they want until you show it to them. That's why I never rely on market research. Our task is to read things that are not yet on the page.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tanmay-sarkar-hub/lauterborn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
