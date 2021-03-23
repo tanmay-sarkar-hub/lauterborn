@@ -15,6 +15,6 @@
 - A sense of looking good
 
 ##### Case studies
-_will be added soon_
+- [San Pallegrino](https://tanmay-sarkar-hub.github.io/lauterborn/consumer/s_pellegrino)
 
 
